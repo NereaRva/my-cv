@@ -7,7 +7,8 @@ const Experience = ({experience}) => {
       <div id="experience" className="experience">
         {experience.map((item) => {
           return(
-            <div key={JSON.stringify(item)}>
+            <div className="cardExperience" key={JSON.stringify(item)}>
+            <img src={item.image} alt={item.name} />
               <p id="name">{item.name}</p>
               <p>{item.where}</p>
               <p>{item.date}</p>

@@ -31,13 +31,15 @@ export const CV = {
   }],
     experience: [
       {
+        image: "src/assets/image/getnet.png",
         name: "TPV Santander",
         date: "2019- actualmente",
         where: "Grupo Konecta, Madrid",
         description:
-          "Recepción de llamadas y gestión de los terminales TPV y procesos bancarios. Labores comerciales. Venta cruzada y retención. Trabajo en equipo.",
+          "Recepción de llamadas y gestión de los terminales TPV. Labores comerciales. Venta cruzada y retención. Trabajo en equipo.",
       },
       {
+        image: "src/assets/image/santander.png",
         name: "Altamira Santander",
         date: "2015-2019",
         where: "Grupo Konecta, Madrid",
@@ -45,6 +47,7 @@ export const CV = {
           "Venta telefónica de inmuebles del Banco Santander.Venta por objetivos.",
       },
       {
+        image: "src/assets/image/laura.png",
         name: "Perfumerías Laura",
         date: "2010-2015",
         where: "Perfumería Laura, Barcelona",
