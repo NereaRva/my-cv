@@ -1,15 +1,14 @@
 .experience{
     display: flex;
     align-items: center;
-    border-top: 1px solid black;
-    padding-top: 50px;
-    margin: 150px;
-    gap: 20px;
+    padding-top: 30px;
+    gap: 100px;
+    margin-left: 100px;
     
 }
 img{
-    width: 200px;
-    height: auto;
+    width: 150px;
+    height: 150px;
 }
 #name {
     font-weight: 800;

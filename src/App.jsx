@@ -25,6 +25,7 @@ function App() {
             <Skills skills={skills}/>
           </div>
           <div className='col'>
+            <h3>Experiencia</h3>
             <Experience experience={experience}/>
           </div>
     </div>   
