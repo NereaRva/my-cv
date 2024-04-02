@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+    background-color: rgb(177, 220, 222);
+    padding: 30px;
+    border-radius: 10px;
+    
+    a{
+        width: 100px;
+        border-radius: 10px;
+        text-decoration: none;
+        color: black;
+}
+}
